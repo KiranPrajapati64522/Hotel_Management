@@ -1,0 +1,27 @@
+Indore	Siyaji hotel	Yes	 Scheme 54, Vijay Nagar,Indore(M.P.)	600
+Indore	Lemon tree	Yes	 Scheme 54, Meghdoot Garden ,Vijay Nagar,Indore(M.P.)	700
+Indore	Cosmopolitan	Yes	Beside GRP Police Station,Indore(M.P.)	600
+Indore	Wow hotel	Yes	 Sapna Sangeeta Road,vijay nagar,Indore(M.P.)	500
+Banglore	The leela palace	Yes	23,Hal Old Airpot Road, Banglore 	3100
+Banglore	Golden hotel	Yes	Ashok Nagar MG Road ,Banglore	3,723
+Banglore	Clyford suites	Yes	MR Road ,Banglore (Karnatak)	3,100
+Mumbai	Taj lands ends	Yes	Bandra Mumbai City	4,200
+Mumbai	Four seasons	Yes	Worli Mumbai City	4000
+Mumbai	Hotel leela	Yes	Sahar,Andheri East ,Mumbai Suburban	3750
+Mumbai	The lalit	Yes	Andheri (East) ,Mumbai Suburban	3800
+Mumbai	Sun-n-sand	Yes	Juhu,Mumbai	3700
+Delhi	Eros hotel	Yes	Nehru palace,New Delhi	3,969
+Delhi	Wood castle	Yes	Karol Bagh ,Shikha Road,New Delhi	3132
+Delhi	Lemon tree premier	Yes	Near Indira Gandhi International Airport,New Delhi ,Delhi	3900
+Ujjain	Anujshree	Yes	Pawapuri Colony,Ujjain ,Madhya Pradesh	3000
+Ujjain	Imperial grand	Yes	Near over bridge Hari Pathak Indore Road,Imperial square,Ujjain(M.P.)	3500
+Ujjain	Shriram ujjain	Yes	Malipura road ,Railway Station ,Dewas Gate,Ujjain(M.P.)	2999
+Ujjain	Kalpana palace	Yes	Near Mahakaleshwer Jyotirling, Ujjain (M.P.)	3100
+Pune	Hyatt pune	Yes	Nilanjali Society, Kalyani Colony,Pune Maharastra	5450
+Pune	Orchid hotel	Yes	Pune-Banglore Road, Balewadi,Pune, Maharashtra	5400
+Pune	Sayaji hotel	Yes	Mumbai-Banglore Bypass Highway,Wakad,Pune,Pimpri-Chinchwad,Maharashtra	5098
+Pune	Grand tulip	Yes	Dadawadi, Shukrawar Peth, Pune ,Maharashtra	3156
+Ahemdabad	Shekhawat palace	Yes	Nava Naroda, Ahemdabad,Gujrat	3400
+Ahemdabad	Novotel	Yes	Iscon Road ,Near Wide Angle Cinema,Ahemdabad,Gujrat	4000
+Ahemdabad	Om palace	Yes	Ashram Road ,Ellisbridge,Ahemdabad,Gujrat	3707
+Kolkata	Ram palace	Yes	Shriram area ,kolkata	2900
